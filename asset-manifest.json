@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mernstacknaman/static/css/main.e8e27011.css",
+    "main.js": "/mernstacknaman/static/js/main.3ea74a44.js",
+    "index.html": "/mernstacknaman/index.html",
+    "main.e8e27011.css.map": "/mernstacknaman/static/css/main.e8e27011.css.map",
+    "main.3ea74a44.js.map": "/mernstacknaman/static/js/main.3ea74a44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8e27011.css",
+    "static/js/main.3ea74a44.js"
+  ]
+}
